@@ -82,8 +82,17 @@ body {
     align-items: center;
     gap: 4rem;
  }
-
+ .title-two {
+    font-size: 22px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+ }
  .card-image {
+    border: 2px solid #666666;
+    box-shadow: 0 0 20px black;
     margin: 10px;
     margin-bottom: 20px;;
  }
