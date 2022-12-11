@@ -41,17 +41,31 @@ body {
      align-items: center;
      padding: 12rem;
  }
+ .main-title {
+    font-size: 48px;
+    margin-bottom: 0px;
+ }
  .main-title-text {
-     width: 100px;
+     font-size: 20px;
+     width: 700px;
+     line-height: 24px;
+
  }
  img {
      width: 600px;
+     border-radius: 16px;
+     border: 2px solid #666666;
+     box-shadow: 0 0 30px black;
  
- 
+ }
+ .card-image {
+    width: 250px;
+    height: auto;
  }
  .container-one {
      display: flex;
      flex-direction: column;
+     margin: 50px;
  }
  .clickme {
      background-color: #3884fd;
@@ -62,3 +76,5 @@ body {
      padding: 10px 30px;
      border: none;
  }
+
+ 
