@@ -83,4 +83,14 @@ body {
     gap: 4rem;
  }
 
+ .card-image {
+    margin: 10px;
+    margin-bottom: 20px;;
+ }
+ .poke-text {
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
  
