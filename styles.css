@@ -88,12 +88,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 20px 0px;
+    margin: 30px 0px;
  }
  .card-image {
     border: 2px solid #666666;
     box-shadow: 0 0 20px black;
-    margin: 10px;
+    margin: 20px;
     margin-bottom: 20px;;
  }
  .poke-text {
@@ -110,7 +110,16 @@ body {
     padding: 200px;
     margin: 100px 0px;
  }
- .read {
-    font-size: 30px;
+ .quote {
+    font-size: 34px;
     font-weight: 300;
+ }
+ .read {
+    width: 1000px;
+    line-height: 46px;
+ }
+ .signoff {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 600;
  }
