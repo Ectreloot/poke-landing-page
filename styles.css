@@ -123,3 +123,19 @@ body {
     justify-content: flex-end;
     font-weight: 600;
  }
+ .container-four {
+   background-color: #3270d4;
+   color: white;
+   padding: 3rem 10rem;
+   margin: 0 30rem;
+   display: flex;
+ }
+ .box {
+   font-size: 26px;
+   line-height: 40px;
+ }
+ .button-two {
+   background-color: #3270d4;
+   display: flex;
+   padding-left: 40rem;
+ }
