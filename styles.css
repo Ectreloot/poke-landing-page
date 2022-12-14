@@ -136,6 +136,8 @@ body {
    margin: 0 34rem;
    display: flex;
    justify-content: space-between;
+   flex: 1;
+   flex-wrap: wrap;
  }
  .box {
    font-size: 26px;
